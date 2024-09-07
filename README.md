@@ -16,6 +16,3 @@
 ### GitHub 통계
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YamYamee&layout=compact&theme=radical)
-
-### 배지
-[![Dev.to Badge](https://img.shields.io/badge/-Dev.to-0A0A0A?logo=dev.to&logoColor=white&style=for-the-badge)](https://dev.to/YamYamee)
